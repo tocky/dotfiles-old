@@ -7,6 +7,8 @@ Bundle 'Shougo/neocomplcache'
 Bundle 'Shougo/unite.vim'
 Bundle 'thinca/vim-ref'
 Bundle 'thinca/vim-quickrun'
+Bundle 'project.tar.gz'
+Bundle 'rails.vim'
 filetype plugin indent on
 
 colorscheme darkblue
