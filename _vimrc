@@ -1,8 +1,18 @@
+set nocompatible
+filetype off
+
+set rtp+=~/.vim/vundle.git/
+call vundle#rc()
+Bundle 'Shougo/neocomplcache'
+Bundle 'Shougo/unite.vim'
+Bundle 'thinca/vim-ref'
+Bundle 'thinca/vim-quickrun'
+filetype plugin indent on
+
 colorscheme darkblue
 set autoindent
 set backupdir=$HOME/.vimbackup
 set browsedir=buffer
-set nocompatible
 set directory=$HOME/.vimbackup
 set expandtab
 set hidden
