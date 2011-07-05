@@ -1,0 +1,14 @@
+[user]
+	name = tocky
+	email = Shin.Tokiwa@gmail.com
+[color]
+	ui = auto
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	di = diff
+	br = branch
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	type = cat-file -t
+	dump = cat-file -p
