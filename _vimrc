@@ -13,6 +13,7 @@ Bundle 'Shougo/unite.vim'
 Bundle 'thinca/vim-ref'
 Bundle 'thinca/vim-quickrun'
 Bundle 'ZenCoding.vim'
+Bundle 'mru.vim'
 filetype plugin indent on
 
 " ================================================================================
